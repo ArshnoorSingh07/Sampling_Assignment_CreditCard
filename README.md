@@ -25,11 +25,9 @@ Explanation:
 
 ### Class Imbalance in Dataset
 
-The graph below shows the distribution of classes before applying any sampling
-techniques. It highlights the severe imbalance between non-fraudulent and
-fraudulent transactions.
-
 ![Class Imbalance Before Sampling](assets/class_imbalance.png)
+
+---
 
 ### Sampling Techniques Used
 - Random Undersampling  
@@ -49,7 +47,18 @@ Evaluation Metric: Accuracy
 
 ---
 
-## 3. Input / Output
+## 3. Balanced Dataset After Sampling
+
+After applying sampling techniques, the dataset becomes balanced with nearly
+equal representation of fraudulent and non-fraudulent transactions. This
+balancing helps machine learning models learn patterns from both classes more
+effectively.
+
+![Balanced Class Distribution](assets/class_balance.png)
+
+---
+
+## 4. Input / Output
 
 ### Input
 - Numerical transaction features  
@@ -62,7 +71,7 @@ Evaluation Metric: Accuracy
 
 ---
 
-## 4. Result Table
+## 5. Result Table
 
 The table below shows the accuracy (%) of different machine learning models
 under various sampling techniques.
@@ -77,13 +86,13 @@ under various sampling techniques.
 
 ---
 
-## 5. Result Graph
+## 6. Result Graph
 
 ![Accuracy Comparison](assets/accuracy_comparison.png)
 
 ---
 
-## 6. Observations
+## 7. Observations
 
 - Model performance varies with different sampling techniques.
 - Oversampling and hybrid methods generally improve accuracy on imbalanced data.
@@ -92,7 +101,7 @@ under various sampling techniques.
 
 ---
 
-## 7. Conclusion
+## 8. Conclusion
 
 This assignment demonstrates the importance of sampling in handling imbalanced
 datasets. Different sampling techniques influence machine learning models in
