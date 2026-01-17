@@ -95,10 +95,3 @@ datasets. Different sampling techniques influence machine learning models in
 different ways, and no single technique works best for all models. Proper
 selection of sampling strategies improves predictive performance.
 
----
-
-## 8. Repository Information
-
-- Notebook created using Google Colab  
-- Solution uploaded to GitHub  
-- Separate repository maintained for this assignment as per submission guidelines
