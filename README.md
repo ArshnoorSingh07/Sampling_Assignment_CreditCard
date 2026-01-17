@@ -4,7 +4,7 @@
 
 The following methodology was used in this assignment:
 
-![Methodology Diagram](assets/Methodology.png)
+![Methodology Diagram](assets/method.png)
 
 Explanation:
 - The dataset was collected from the provided GitHub repository.
