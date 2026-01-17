@@ -2,11 +2,9 @@
 
 ## 1. Methodology
 
-The following methodology was followed to perform sampling and predictive
-analysis on an imbalanced credit card dataset:
+The following methodology was used in this assignment:
 
-Data Collection → Data Understanding → Sampling Techniques →
-Model Training → Model Evaluation → Result Analysis
+![Methodology Diagram](assets/Methodology.png)
 
 Explanation:
 - The dataset was collected from the provided GitHub repository.
