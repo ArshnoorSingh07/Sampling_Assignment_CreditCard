@@ -21,7 +21,15 @@ Explanation:
 - Target Variable: Class  
   - Class 0 → Non-Fraud  
   - Class 1 → Fraud  
-- Nature of Dataset: Highly imbalanced  
+- Nature of Dataset: Highly imbalanced
+
+### Class Imbalance in Dataset
+
+The graph below shows the distribution of classes before applying any sampling
+techniques. It highlights the severe imbalance between non-fraudulent and
+fraudulent transactions.
+
+![Class Imbalance Before Sampling](assets/class_imbalance.png)
 
 ### Sampling Techniques Used
 - Random Undersampling  
