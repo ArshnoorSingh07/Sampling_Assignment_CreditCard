@@ -73,9 +73,7 @@ under various sampling techniques.
 
 ## 5. Result Graph
 
-Separate graphs were plotted to visualize the class distribution after each
-sampling technique and to compare model accuracy across different sampling
-methods. These graphs clearly show the impact of sampling on model performance.
+![Accuracy Comparison](assets/accuracy_comparison.png)
 
 ---
 
